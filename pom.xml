@@ -54,7 +54,7 @@
 	<dependency>
 	    <groupId>com.github.fanhua1994</groupId>
 	    <artifactId>DzFilter</artifactId>
-	    <version>1.0.7beta</version>
+	    <version>1.0.7beta2</version>
 	</dependency>
 	
   </dependencies>
